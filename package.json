@@ -1,0 +1,27 @@
+{
+  "name": "zeppelin-mathjax-spell",
+  "description": "MathJax Spell For Apache Zeppelin",
+  "version": "0.0.1",
+  "main": "index",
+  "author": "1ambda",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1ambda/zeppelin-mathjax-spell.git"
+  },
+  "bugs": {
+    "url": "https://github.com/1ambda/zeppelin-mathjax-spell/issues"
+  },
+  "homepage": "https://github.com/1ambda/zeppelin-mathjax-spell#readme",
+  "dependencies": {
+    "mathjax": "^2.7.0",
+    "zeppelin-spell": "*"
+  },
+  "helium": {
+    "icon": "<img width=\"20\" height=\"20\" src=\"data:image/svg+xml;utf8;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pgo8IS0tIEdlbmVyYXRvcjogQWRvYmUgSWxsdXN0cmF0b3IgMTkuMC4wLCBTVkcgRXhwb3J0IFBsdWctSW4gLiBTVkcgVmVyc2lvbjogNi4wMCBCdWlsZCAwKSAgLS0+CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeD0iMHB4IiB5PSIwcHgiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA1MTIgNTEyOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgd2lkdGg9IjUxMnB4IiBoZWlnaHQ9IjUxMnB4Ij4KPHBhdGggc3R5bGU9ImZpbGw6IzZEQzgyQTsiIGQ9Ik0yNTYsNTEyQzExNC44MzksNTEyLDAsMzk3LjE1NiwwLDI1NlMxMTQuODM5LDAsMjU2LDBzMjU2LDExNC44NDQsMjU2LDI1NlMzOTcuMTYxLDUxMiwyNTYsNTEyeiIvPgo8cGF0aCBzdHlsZT0iZmlsbDojNjFCMzI1OyIgZD0iTTUxMiwyNTZDNTEyLDExNC44NDQsMzk3LjE2MSwwLDI1NiwwdjUxMkMzOTcuMTYxLDUxMiw1MTIsMzk3LjE1Niw1MTIsMjU2eiIvPgo8cGF0aCBzdHlsZT0iZmlsbDojRkZGRkZGOyIgZD0iTTE4OS40MTksNDA0Ljg1M2MtNi4yMjQsMC0xMS45MS0zLjUxMS0xNC42OTMtOS4wNzhsLTYyLjI1OC0xMjQuNTE3SDg5LjIyMyAgYy05LjA3MiwwLTE2LjQyOC03LjM1LTE2LjQyOC0xNi40MjhzNy4zNTQtMTYuNDI4LDE2LjQyOC0xNi40MjhoMzMuMzk5YzYuMjI0LDAsMTEuOTEsMy41MTEsMTQuNjkzLDkuMDc4bDUyLjEwNCwxMDQuMjA4ICBsMTA3Ljc2OC0yMTUuNTM3YzIuNzgzLTUuNTY2LDguNDY5LTkuMDc4LDE0LjY5My05LjA3OGg3Ny45M2M5LjA3MiwwLDE2LjQyOCw3LjM1LDE2LjQyOCwxNi40MjhzLTcuMzU0LDE2LjQyOC0xNi40MjgsMTYuNDI4ICBoLTY3Ljc3NkwyMDQuMTEyLDM5NS43NzVDMjAxLjMyOSw0MDEuMzQyLDE5NS42NDMsNDA0Ljg1MywxODkuNDE5LDQwNC44NTN6Ii8+CjxwYXRoIHN0eWxlPSJmaWxsOiNGRkU2QjM7IiBkPSJNMzg5LjgxLDEyNy4wNzVoLTc3LjkzYy02LjIyNCwwLTExLjkxLDMuNTExLTE0LjY5Myw5LjA3OGwtNDAuOTcxLDgxLjk0MnY3My40NzJsNjUuODE5LTEzMS42MzcgIGg2Ny43NzZjOS4wNzIsMCwxNi40MjgtNy4zNSwxNi40MjgtMTYuNDI4QzQwNi4yMzgsMTM0LjQyNSwzOTguODg0LDEyNy4wNzUsMzg5LjgxLDEyNy4wNzV6Ii8+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+Cjwvc3ZnPgo=\" />",
+    "spell": {
+      "magic": "%mathjax",
+      "usage": "%mathjax <TEXT>"
+    }
+  }
+}
